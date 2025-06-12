@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Gourav Shikhwal
 
-<!--
-**gourav159/gourav159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student (AI & ML) at Chandigarh University  
+📊 Passionate Data Analyst | Python, SQL, Power BI, Tableau  
+🛠️ Developer | Web + Data Science + Visualization  
+📬 Reach me at: [shikhwalgourav@gmail.com](mailto:shikhwalgourav@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+Motivated and detail-oriented **Data Analyst** with a strong foundation in **Python, SQL, Excel, Power BI**, and **Tableau**.  
+Skilled in collecting, cleaning, analyzing, and visualizing data to deliver actionable business insights.  
+Currently pursuing an **MCA in Artificial Intelligence and Machine Learning**, and exploring opportunities in **data-driven domains**.
+
+---
+
+## 🔧 Skills
+
+- **Languages:** Python, SQL, C++
+- **Visualization:** Power BI, Tableau, Excel
+- **Web Technologies:** HTML, CSS, JavaScript, Django
+- **Tools & IDEs:** VS Code, Google Colab, Git, GitHub
+- **Databases:** MySQL
+- **Other:** Analytical Thinking, Communication, Decision-Making
+
+---
+
+## 🧠 Certifications
+
+- 🧩 Python 3 Programming – *University of Michigan (Coursera)*
+- 📊 Introduction to Data Analytics – *IBM*
+- 📈 Data Visualization Dashboards with Excel and Cognos – *IBM*
+
+---
+
+## 📂 Projects
+
+### 📦 Blinkit Business Dashboard (Power BI)
+Developed a comprehensive dashboard to analyze order volume, revenue trends, customer demographics, and product performance.
+
+### 🌸 Iris Flower Classification
+Built a supervised ML model using scikit-learn, Pandas & Seaborn to classify iris species with ~96% accuracy.
+
+### 🕵️ Object Detection System
+Built a real-time object detection app using Python, OpenCV, Streamlit, and TensorFlow.
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: [shikhwalgourav@gmail.com](mailto:shikhwalgourav@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/gourav-shikhwal](https://linkedin.com/in/gourav-shikhwal)  
+- 💻 GitHub: [github.com/gourav159](https://github.com/gourav159)
+
+---
+
+⭐ *Currently open to internships, collaborations, and exciting data-driven opportunities!*
