@@ -39,6 +39,10 @@ Currently pursuing an **MCA in Artificial Intelligence and Machine Learning**, a
 ### 📦 Blinkit Business Dashboard (Power BI)
 Developed a comprehensive dashboard to analyze order volume, revenue trends, customer demographics, and product performance.
 
+🏠 Room Rental Service Web App
+
+Developed a full-stack web application for booking and managing room rentals using HTML, CSS, JavaScript for the frontend, Django for the backend, and SQL for data storage. Enabled user registration, room listing, booking management, and admin controls.
+
 ### 🌸 Iris Flower Classification
 Built a supervised ML model using scikit-learn, Pandas & Seaborn to classify iris species with ~96% accuracy.
 
